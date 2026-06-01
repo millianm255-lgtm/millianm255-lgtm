@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Maximillian Mbogho 👋
 
-<!--
-**millianm255-lgtm/millianm255-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering Student at Kirinyaga University.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about software engineering, artificial intelligence, backend development, software testing, and code review.
+
+## Technical Skills
+
+- Python
+- JavaScript
+- Java
+- SQL
+- Git
+- GitHub
+- Docker
+- Linux
+- REST APIs
+- Software Testing
+- AI Evaluation
+
+## Experience
+
+- AI Data Trainer & Software Evaluation Contributor
+- Evaluated AI-generated code for correctness and maintainability.
+- Conducted code reviews and technical evaluations.
+- Identified bugs, edge cases, and performance issues.
+- Participated in software testing and validation workflows.
+
+## Education
+
+Bachelor of Science in Computer Software Engineering  
+Kirinyaga University
+
+## Current Focus
+
+- Software Engineering
+- AI Evaluation
+- Backend Development
+- Open Source Learning
+- Software Testing
+
+## Contact
+
+- Email: millianm255@gmail.com
+- LinkedIn: linkedin.com/in/maximillianmbogho
+- GitHub: github.com/millianm255-lgtm
