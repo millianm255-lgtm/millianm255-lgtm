@@ -1,6 +1,6 @@
 # Hi, I'm Maximillian Mbogho 👋
 
-Software Engineering Student at Kirinyaga University.
+Senior Software Engineer.
 
 ## About Me
 
